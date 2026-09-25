@@ -37,8 +37,8 @@ public class Tabeller {
 
 	// d)
 	public static boolean finnesTall(int[] tabell, int tall) {
-
-		
+		for(int i = 1; i < tabell.length; i++)
+		boolean
 
 	}
 
